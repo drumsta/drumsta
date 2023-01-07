@@ -7,3 +7,7 @@
 - 💬 Ping me about [Azure Cloud](https://github.com/azure/), [Cloud Adoption Framework](https://github.com/Azure/caf-terraform-landingzones), [Well-Architected Framework](https://learn.microsoft.com/azure/architecture/framework/) and anything else that is complex and have endless opportunities - I'll drive it from chaos to order.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrumsta/)
 - 📙 Mediators (INFP) are rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.
+
+![Funny Contributions Animation](contributions.svg)
+
+[![Drumsta's GitHub stats](https://github-readme-stats.vercel.app/api?username=drumsta&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
