@@ -5,7 +5,7 @@
 - 🌱 While learning, I’m working on a hobby project [Companion for Train Simulator](https://github.com/drumsta/companion-for-ts).
 - 💬 Ping me about [Azure Architecture](https://learn.microsoft.com/en-us/azure/architecture/), [Cloud Adoption Framework](https://github.com/Azure/caf-terraform-landingzones), [Well-Architected Framework](https://learn.microsoft.com/azure/architecture/framework/) and anything else that is complex and has endless opportunities - I'll drive it from chaos to order.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrumsta/).
-- 📙 Did you know - Mediator (INFP) is a rare personality type which tend to be quiet, open-minded, and imaginative, they apply a caring and creative approach to everything they do.
+- 📙 Did you know - Mediator (INFP) is a rare personality type which tend to be quiet, open-minded, and imaginative. They apply a caring and creative approach to everything they do.
 - 🎉 Almost forgot to mention - coding is a never ending learning process!
 
 ![Funny Contributions Animation](contributions.svg)
