@@ -1,13 +1,5 @@
 # ⚡️ ꋬ ꄟꏹꅐ ꋠꌈꂑꇃꈵ ꄟꁲꇃꋖꌚ
 
->All that is gold does not glitter;
->
->Not all those who wander are lost;
->
-> The old that is strong does not wither;
-> 
->  Deep roots are not reached by the frost.
-
 - 📝 I am currently working at GladCloud, focusing on the [Trade Marketing Platform](https://www.github.com/gladcloud/). It's an exciting project that I'm thrilled to be a part of!
 - 🚶 In my spare time, I enjoy diving deep into the [Go](https://go.dev/) language and exploring the potential of [OpenAI](https://chat.openai.com/) technology.
 - 📈 While I'm working on those projects, I'm also developing my own garage project called [Backtestor](https://github.com/backtestor).
